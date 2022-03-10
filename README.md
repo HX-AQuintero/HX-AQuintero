@@ -2,7 +2,7 @@
 <h1 align="center"> Hi 👋, I'm Alejandro Quintero Mejía. </h1>
 <img align='right' src='http://www.jenyalestina.com/blog/wp-content/uploads/2019/05/web-development-1024x582.jpg' width='300"'>
 <h3 align="flex-start">I'm a passionate Full Stack Web Developer & Mathematician.</h3>
-<h3 align="justified">I'm looking for my first IT experience. I would like to combine the tools and skill of both profiles, in order to efficiently resolve the different challenges present in the tech. I'm in love with Software Development and Artificial Intelligence.</h3>
+<h3 align="justified">I'm looking for my first IT experience. I would like to combine the tools and skill of both profiles, in order to efficiently resolve the different challenges present in tech. I'm in love with Software Development, Data Science and Artificial Intelligence.</h3>
 
 <h2> A little more about me: </h2>
 
@@ -25,12 +25,12 @@ const aboutMe = {
 ```
 - 🌱 I’m currently learning **Typescript, Tailwind, React Native**
 - 💬 Ask me about **JavaScript, React, Redux, HTML, CSS, Node JS, Express, PostgreSQL, Sequelize, Git**
-- 📫 How to reach me: **alejandroquinteromejia@gmail.com**
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://linkedin.com/in/alejandro-quintero-mejia/" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="https://www.linkedin.com/in/alejandro-quintero-mejia/" height="40" width="40" /></a>
 <a href="https://wa.me/+undefined573003400992?text=Hola%20Alejandro,%20soy%20" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg" alt="https://wa.me/+undefined573003400992?text=Hola%20Alejandro,%20soy%20" height="40" width="40" /></a>
 <a href="https://twitter.com/BatmathDev" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="https://twitter.com/BatmathDev" height="40" width="40" /></a>
+<a href="mailto:alejandroquinteromejia@gmail.com" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="mail" height="50" width="40" /></a>
 </p>
 
 <h2 align="left">Languages and Tools:</h2>

@@ -8,16 +8,15 @@
 
 ```javascript
 const aboutMe = {
-   pronouns: "he" | "him",
    code: [Javascript, HTML, CSS],
    technologies: {
       frontEnd: {
-         js: [React, Redux],
+         js: ["React", "Redux"],
       },
       backEnd: {
-         js: [Node, Express, Sequelize],
+         js: ["Node", "Express", "Sequelize"],
       },
-      databases: [PostgreSQL],
+      databases: ["PostgreSQL"],
    },
    currentOccupation: ["Teaching Assistent at Henry"],
    hobbies: ["Art", "Tech", "Science", "Languages"]
@@ -45,6 +44,23 @@ const aboutMe = {
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="postgresql" width="40" height="40"/> </a> 
 <a href="https://sequelize.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg" alt="sequelize" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+
+<h2 align="left">Projects:</h2>
+<h2 align="center">Dogs App :computer:</h2>
+<h3 align="left">:wrench: Tech tools:</h3> JavaScript, HTML, CSS.
+<h3 align="left">:arrow_backward: Backend:</h3> NodeJS, Express, Sequelize and PostgreSQL.
+<h3 align="left">:arrow_forward: Frontend:</h3> React, Redux.
+<br></br>
+<p align="justified">This application was performed by applying all the knowledge acquired in Henry's Bootcamp. It use PostgreSQL as a database and through Sequelize, the models are connected to the server provided by Express. It consumes data from the dogs API and has new paths that will be used by the frontend. The data shown come from the new paths and from the database. Dogs App allows both the visualization, filtering and sorting of more than 150 dog breeds, as well as the possibility of creating new breeds and adding them to a database. Redux is used to control the global state.</p>
+<p>Check it out: https://dogs-app-jade.vercel.app/</p>
+<hr>
+
+<h2 align="center">Weather App :computer:</h2>
+<h3 align="left">:wrench: Tech tools:</h3> JavaScript, HTML, CSS.
+<h3 align="left">:arrow_forward: Frontend:</h3> React.
+<br></br>
+<p align="justified">My first React application. It consumes data from the Weather API and show different information such as minimum and maximum temperatures, clouds and winds of each city in the world, from a search performed by the User. In this app, I've learned to use react-router-dom by routing three differents paths, improving my React skills.</p>
+
 
 
 <!--

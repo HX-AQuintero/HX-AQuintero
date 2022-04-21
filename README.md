@@ -22,7 +22,7 @@ const aboutMe = {
    hobbies: ["Art", "Tech", "Science", "Languages"]
 };
 ```
-- 🌱 I’m currently learning **Typescript, Tailwind, React Native**
+- 🌱 I’m currently learning **Typescript, React Native**
 - 💬 Ask me about **JavaScript, React, Redux, HTML, CSS, Node JS, Express, PostgreSQL, Sequelize, Git**
 <h2 align="left">Connect with me:</h2>
 <p align="left">
@@ -48,6 +48,17 @@ const aboutMe = {
 
 
 <h2 align="left">Projects:</h2>
+
+<h2 align="center">Tech Store E-commerce :computer:</h2>
+<h3 align="left">:wrench: Tech tools:</h3> JavaScript, HTML, Tailwind CSS, Cloudinary, JWT.
+<h3 align="left">:arrow_backward: Backend:</h3> NodeJS, Express, Sequelize and PostgreSQL.
+<h3 align="left">:arrow_forward: Frontend:</h3> React, Redux.
+<br></br>
+<p align="justified">The project consists of a virtual store of technological articles. In it you can find products by categories that can be filtered by shipping cost, price range and in ascending and descending order, as well as added to a wishlist or directly to a shopping cart.
+Each product has its specifications such as price, description, shipping cost and purchase button; however, only logged in users can make purchases, being these simulated by a Mercado Pago gateway. The login can be done through a form or with Google directly. There is an administrator profile that can view information regarding users, their orders and products purchased, sales statistics, option to assign discount to products and section for creating newsletter and sending it to subscribed users.</p>
+<p>Check it out: https://tech-store-dev.vercel.app/</p>
+<hr>
+
 <h2 align="center">Dogs App :computer:</h2>
 <h3 align="left">:wrench: Tech tools:</h3> JavaScript, HTML, CSS.
 <h3 align="left">:arrow_backward: Backend:</h3> NodeJS, Express, Sequelize and PostgreSQL.
@@ -56,14 +67,6 @@ const aboutMe = {
 <p align="justified">This application was performed by applying all the knowledge acquired in Henry's Bootcamp. It use PostgreSQL as a database and through Sequelize, the models are connected to the server provided by Express. It consumes data from the dogs API and has new paths that will be used by the frontend. The data shown come from the new paths and from the database. Dogs App allows both the visualization, filtering and sorting of more than 150 dog breeds, as well as the possibility of creating new breeds and adding them to a database. Redux is used to control the global state.</p>
 <p>Check it out: https://dogs-app-jade.vercel.app/</p>
 <hr>
-
-<h2 align="center">Weather App :computer:</h2>
-<h3 align="left">:wrench: Tech tools:</h3> JavaScript, HTML, CSS.
-<h3 align="left">:arrow_forward: Frontend:</h3> React.
-<br></br>
-<p align="justified">My first React application. It consumes data from the Weather API and show different information such as minimum and maximum temperatures, clouds and winds of each city in the world, from a search performed by the User. In this app, I've learned to use react-router-dom by routing three differents paths, improving my React skills.</p>
-
-
 
 <!--
 **AlejoMejia96/alejomejia96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

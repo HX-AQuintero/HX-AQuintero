@@ -8,13 +8,13 @@
 
 ```javascript
 const aboutMe = {
-   code: [Javascript, HTML, CSS],
+   code: [Javascript, HTML, CSS, Typescript, Ruby, Python],
    technologies: {
       frontEnd: {
-         js: ["React", "Redux"],
+         js: ["React", "Redux", "React Native"],
       },
       backEnd: {
-         js: ["Node", "Express", "Sequelize"],
+         js: ["Node", "Express", "Sequelize", "Ruby on Rails"],
       },
       databases: ["PostgreSQL"],
    },
@@ -22,8 +22,6 @@ const aboutMe = {
    hobbies: ["Art", "Tech", "Science", "Languages"]
 };
 ```
-- 🌱 I’m currently learning **Typescript, React Native**
-- 💬 Ask me about **JavaScript, React, Redux, HTML, CSS, Node JS, Express, PostgreSQL, Sequelize, Git**
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://linkedin.com/in/alejandro-quintero-mejia/" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="https://www.linkedin.com/in/alejandro-quintero-mejia/" height="40" width="40" /></a>

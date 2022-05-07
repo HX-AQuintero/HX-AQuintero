@@ -8,18 +8,19 @@
 
 ```javascript
 const aboutMe = {
-   code: [Javascript, HTML, CSS, Typescript, Ruby, Python],
+   code: ['Javascript', 'HTML', 'CSS', 'Typescript', 'Ruby', 'Python'],
    technologies: {
       frontEnd: {
-         js: ["React", "Redux", "React Native"],
+         js: ['React', 'Redux', 'React Native']
       },
       backEnd: {
-         js: ["Node", "Express", "Sequelize", "Ruby on Rails"],
+         js: ['NodeJS', 'ExpressJS', 'Sequelize'],
+         ruby: ['Active Records', 'Ruby on Rails']
       },
-      databases: ["PostgreSQL"],
+      databases: ['PostgreSQL'],
    },
-   currentOccupation: ["Looking for my first IT experience"],
-   hobbies: ["Art", "Tech", "Science", "Languages"]
+   currentOccupation: ['Looking for my first IT experience'],
+   hobbies: ['Art', 'Tech', 'Science', 'Languages']
 };
 ```
 <h2 align="left">Connect with me:</h2>
@@ -36,12 +37,17 @@ const aboutMe = {
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" alt="css3" width="40" height="40"/> </a>
 <a href="https://tailwindcss.com/" target="_blank"> <img src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" alt="tailwind" width="40" height="30"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank"> <img src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png" alt="react" width="45" height="40"/> </a> 
+<a href="https://www.typescriptlang.org
+" target="_blank"> <img src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png" alt="typescript" width="40" height="40"/> </a> 
+<a href="https://reactjs.org/" target="_blank"> <img src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png" alt="react" width="45" height="40"/> </a>
 <a href="https://redux.js.org" target="_blank"> <img src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png" alt="redux" width="40" height="40"/> </a> 
 <a href="https://nodejs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width= "40" height="40"/> </a>
 <a href="https://expressjs.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="40" height="40"/> </a> 
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="postgresql" width="40" height="40"/> </a> 
 <a href="https://sequelize.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg" alt="sequelize" width="40" height="40"/> </a>
+<a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://img.icons8.com/color/344/ruby-programming-language.png" alt="ruby" width="40" height="40"/> </a> 
+<a href="https://rubyonrails.org/" target="_blank"> <img src="https://seeklogo.com/images/R/ruby-on-rails-logo-95951CC5FB-seeklogo.com.png" alt="rubyonrails" width="35" height="40"/> </a> 
+<a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/344/python--v1.png" alt="python" width="43" height="43"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 
 

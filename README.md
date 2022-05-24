@@ -60,7 +60,7 @@ const aboutMe = {
 <br></br>
 <p align="justified">The project consists of a virtual store of technological articles. In it you can find products by categories that can be filtered by shipping cost, price range and in ascending and descending order, as well as added to a wishlist or directly to a shopping cart.
 Each product has its specifications such as price, description, shipping cost and purchase button; however, only logged in users can make purchases, being these simulated by a Mercado Pago gateway. The login can be done through a form or with Google directly. There is an administrator profile that can view information regarding users, their orders and products purchased, sales statistics, option to assign discount to products and section for creating newsletter and sending it to subscribed users.</p>
-<p>Check it out: https://tech-store-dev.vercel.app/</p>
+<p>Check it out: https://tech-store-prod.vercel.app/</p>
 <hr>
 
 <h2 align="center">Dogs App :computer:</h2>

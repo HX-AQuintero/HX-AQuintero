@@ -1,7 +1,7 @@
 
 <h1 align="center">Hello everyone!👋</h1>
 <div>
-<img align='right' src='http://www.jenyalestina.com/blog/wp-content/uploads/2019/05/web-development-1024x582.jpg' width='400' height='300'>
+<img align='right' src='https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47utz6772f2dyuwh3nzg8iuyy60s15gkexaxcsd7ym&rid=giphy.gif&ct=g' width='400' height='300'>
    <div>
    <h3 align="justified">I am a Full Stack Web Developer and Mathematician with a great passion for programming, teaching and constant learning. I love exploring new technologies and tools to expand my skills and apply them to exciting projects.</h3>
    <h3 align="justified"> My focus is on developing high-quality web applications and solving complex problems. I'm excited to join the developer community and collaborate on innovative projects that help improve people's lives.</h3>

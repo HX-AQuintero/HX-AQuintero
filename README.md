@@ -45,7 +45,7 @@ Full-stack Claude pipeline that turns a feature-length screenplay (PDF / TXT / F
 Classifies customer queries by department (HR, IT, Finance) with structured outputs and routes them to a domain-specific **RAG agent**, with a human fallback for low-confidence cases. An **Evaluator Agent** (LLM-as-a-judge) scores relevance, completeness and accuracy, all inside a single Langfuse trace per query.
 <br>`LangChain` `Chroma` `Pydantic` `Langfuse` `OpenAI`
 
-### 🔎 [Deep Research Clone](https://github.com/HX-AQuintero/chatGPT-deep-research-clone)
+### 🔎 [Deep Research Clone](https://github.com/HX-AQuintero/chatGPT-deep-research-clone) · [live demo](https://chatgpt-deep-research-clone.streamlit.app/)
 Streamlit research assistant that goes from a topic to a well-cited report: asks clarifying questions, plans targeted searches, iterates with OpenAI's Responses API `web_search` tool until the goal is met, and exports the report as Markdown, TXT or PDF.
 <br>`OpenAI Responses API` `Streamlit` `ReportLab` `Python`
 
